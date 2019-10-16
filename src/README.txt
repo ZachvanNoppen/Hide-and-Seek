@@ -1,6 +1,5 @@
 Hide and Seek
 Zachary van Noppen
-101086708
 
 The project is meant to replicate hide and seek, with the computer giving hints to where the location of the hidden items is. The game starts by the user selecting a the colour of the object to be hidden. Then the object is calibrated. To calibrate, do the following:
 1. Enter the width of the tracked object (inches) on the GUI
